@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Кототемы</string>
+  <string name="architecture">Архитектура</string>
+  <string name="crafts">Рукоделие</string>
+  <string name="business">Бизнес</string>
+  <string name="culinary">Кулинария</string>
+  <string name="design">Дизайн</string>
+  <string name="fashion">Мода</string>
+  <string name="film">Кино</string>
+  <string name="gaming">Игры</string>
+  <string name="drawing">Рисование</string>
+  <string name="lifestyle">Образ жизни</string>
+  <string name="music">Музыка</string>
+  <string name="painting">Живопись</string>
+  <string name="photography">Фотография</string>
+  <string name="tech">Технологии</string>
+</resources>

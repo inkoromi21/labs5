@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Котики поддержат</string>
+  <string name="affirmation1">Я сильный. Даже если я маленький котёнок.</string>
+  <string name="affirmation2">Я верю в себя. И немного в корм.</string>
+  <string name="affirmation3">Каждый день — новый шанс стать лучше.</string>
+  <string name="affirmation4">Любую трудность можно преодолеть. После сна.</string>
+  <string name="affirmation5">У меня много поводов для благодарности.</string>
+  <string name="affirmation6">Хорошее обязательно случится.</string>
+  <string name="affirmation7">За каждым углом меня ждут новые возможности.</string>
+  <string name="affirmation8">Мне хватит смелости идти за мечтой.</string>
+  <string name="affirmation9">Всему своё время. Сейчас время котиков.</string>
+  <string name="affirmation10">Я ценю каждый момент этого дня.</string>
+</resources>
